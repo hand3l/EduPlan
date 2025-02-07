@@ -6,8 +6,8 @@ import java.sql.SQLException;
 
 public class DatabaseConnection {
     private static final String URL = "jdbc:mysql://localhost:3306/eduplan";
-    private static final String USUARIO = "root"; // Reemplazar con el usuario correcto
-    private static final String CONTRASEÑA = "123456"; // Reemplazar con la contraseña correcta
+    private static final String USUARIO = "root"; 
+    private static final String CONTRASEÑA = "123456"; 
     private static Connection conexion = null;
 
     // **Método para obtener la conexión**
