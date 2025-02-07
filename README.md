@@ -1,9 +1,9 @@
 
-📚 EduPlan
+EduPlan
 
 EduPlan es un sistema de gestión académica desarrollado en Java con Swing y MySQL, que permite administrar usuarios, calificaciones, horarios y asistencia en una institución educativa.
 
-🚀 Funcionalidades
+ Funcionalidades
 
 🔹 Gestión de Usuarios
 
